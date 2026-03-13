@@ -1,0 +1,5539 @@
+{
+  "metadata": {
+    "recorded_at": "2026-03-13T14:49:18.953198",
+    "sources": [
+      "segformer"
+    ],
+    "total_frames": 522,
+    "total_detections": 135,
+    "images_saved": false
+  },
+  "frames": [
+    {
+      "frame": 0,
+      "ros_stamp_s": 1773409741.5396492,
+      "recorded_at": "2026-03-13T14:49:01.540570",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 1,
+      "ros_stamp_s": 1773409741.5501328,
+      "recorded_at": "2026-03-13T14:49:01.550670",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 2,
+      "ros_stamp_s": 1773409741.5651717,
+      "recorded_at": "2026-03-13T14:49:01.565810",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 3,
+      "ros_stamp_s": 1773409741.6333306,
+      "recorded_at": "2026-03-13T14:49:01.634072",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 4,
+      "ros_stamp_s": 1773409741.6421106,
+      "recorded_at": "2026-03-13T14:49:01.642719",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 5,
+      "ros_stamp_s": 1773409741.6652505,
+      "recorded_at": "2026-03-13T14:49:01.665856",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 6,
+      "ros_stamp_s": 1773409741.735557,
+      "recorded_at": "2026-03-13T14:49:01.736130",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 7,
+      "ros_stamp_s": 1773409741.7447076,
+      "recorded_at": "2026-03-13T14:49:01.745463",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 8,
+      "ros_stamp_s": 1773409741.7654915,
+      "recorded_at": "2026-03-13T14:49:01.766265",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 9,
+      "ros_stamp_s": 1773409741.835541,
+      "recorded_at": "2026-03-13T14:49:01.836270",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 10,
+      "ros_stamp_s": 1773409741.8444157,
+      "recorded_at": "2026-03-13T14:49:01.845165",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 11,
+      "ros_stamp_s": 1773409741.865497,
+      "recorded_at": "2026-03-13T14:49:01.866258",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 12,
+      "ros_stamp_s": 1773409741.934281,
+      "recorded_at": "2026-03-13T14:49:01.935030",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 13,
+      "ros_stamp_s": 1773409741.9433784,
+      "recorded_at": "2026-03-13T14:49:01.944107",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 14,
+      "ros_stamp_s": 1773409741.9660625,
+      "recorded_at": "2026-03-13T14:49:01.966677",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 15,
+      "ros_stamp_s": 1773409742.0366476,
+      "recorded_at": "2026-03-13T14:49:02.037203",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 16,
+      "ros_stamp_s": 1773409742.0455523,
+      "recorded_at": "2026-03-13T14:49:02.046323",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 17,
+      "ros_stamp_s": 1773409742.0658655,
+      "recorded_at": "2026-03-13T14:49:02.066446",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 18,
+      "ros_stamp_s": 1773409742.1406658,
+      "recorded_at": "2026-03-13T14:49:02.141245",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 19,
+      "ros_stamp_s": 1773409742.1498222,
+      "recorded_at": "2026-03-13T14:49:02.150404",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 20,
+      "ros_stamp_s": 1773409742.165658,
+      "recorded_at": "2026-03-13T14:49:02.166405",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 21,
+      "ros_stamp_s": 1773409742.2405899,
+      "recorded_at": "2026-03-13T14:49:02.241335",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 22,
+      "ros_stamp_s": 1773409742.2499237,
+      "recorded_at": "2026-03-13T14:49:02.250521",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 23,
+      "ros_stamp_s": 1773409742.2659662,
+      "recorded_at": "2026-03-13T14:49:02.266557",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 24,
+      "ros_stamp_s": 1773409742.342735,
+      "recorded_at": "2026-03-13T14:49:02.343453",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 25,
+      "ros_stamp_s": 1773409742.352023,
+      "recorded_at": "2026-03-13T14:49:02.352719",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 26,
+      "ros_stamp_s": 1773409742.3664422,
+      "recorded_at": "2026-03-13T14:49:02.367084",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 27,
+      "ros_stamp_s": 1773409742.4396107,
+      "recorded_at": "2026-03-13T14:49:02.440171",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 28,
+      "ros_stamp_s": 1773409742.448229,
+      "recorded_at": "2026-03-13T14:49:02.448969",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 29,
+      "ros_stamp_s": 1773409742.4664752,
+      "recorded_at": "2026-03-13T14:49:02.467280",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 30,
+      "ros_stamp_s": 1773409742.5425339,
+      "recorded_at": "2026-03-13T14:49:02.543253",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 31,
+      "ros_stamp_s": 1773409742.5518935,
+      "recorded_at": "2026-03-13T14:49:02.552512",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 32,
+      "ros_stamp_s": 1773409742.5681522,
+      "recorded_at": "2026-03-13T14:49:02.568876",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 33,
+      "ros_stamp_s": 1773409742.6382544,
+      "recorded_at": "2026-03-13T14:49:02.638829",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 34,
+      "ros_stamp_s": 1773409742.6473813,
+      "recorded_at": "2026-03-13T14:49:02.647968",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 35,
+      "ros_stamp_s": 1773409742.6665466,
+      "recorded_at": "2026-03-13T14:49:02.667342",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 36,
+      "ros_stamp_s": 1773409742.741156,
+      "recorded_at": "2026-03-13T14:49:02.741722",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 37,
+      "ros_stamp_s": 1773409742.7507014,
+      "recorded_at": "2026-03-13T14:49:02.751490",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 38,
+      "ros_stamp_s": 1773409742.7667804,
+      "recorded_at": "2026-03-13T14:49:02.767399",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 39,
+      "ros_stamp_s": 1773409742.8405287,
+      "recorded_at": "2026-03-13T14:49:02.841119",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 40,
+      "ros_stamp_s": 1773409742.8497221,
+      "recorded_at": "2026-03-13T14:49:02.850283",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 41,
+      "ros_stamp_s": 1773409742.8669012,
+      "recorded_at": "2026-03-13T14:49:02.867510",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 42,
+      "ros_stamp_s": 1773409742.9428139,
+      "recorded_at": "2026-03-13T14:49:02.943369",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 43,
+      "ros_stamp_s": 1773409742.9519155,
+      "recorded_at": "2026-03-13T14:49:02.952591",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 44,
+      "ros_stamp_s": 1773409742.96718,
+      "recorded_at": "2026-03-13T14:49:02.967782",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 45,
+      "ros_stamp_s": 1773409743.0407054,
+      "recorded_at": "2026-03-13T14:49:03.041307",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 46,
+      "ros_stamp_s": 1773409743.0504353,
+      "recorded_at": "2026-03-13T14:49:03.051106",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 47,
+      "ros_stamp_s": 1773409743.0672004,
+      "recorded_at": "2026-03-13T14:49:03.067833",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 48,
+      "ros_stamp_s": 1773409743.1410182,
+      "recorded_at": "2026-03-13T14:49:03.141573",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 49,
+      "ros_stamp_s": 1773409743.1505325,
+      "recorded_at": "2026-03-13T14:49:03.151121",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 50,
+      "ros_stamp_s": 1773409743.1666565,
+      "recorded_at": "2026-03-13T14:49:03.167248",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 51,
+      "ros_stamp_s": 1773409743.2419827,
+      "recorded_at": "2026-03-13T14:49:03.242559",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 52,
+      "ros_stamp_s": 1773409743.2516603,
+      "recorded_at": "2026-03-13T14:49:03.252251",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 53,
+      "ros_stamp_s": 1773409743.2674487,
+      "recorded_at": "2026-03-13T14:49:03.268082",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 54,
+      "ros_stamp_s": 1773409743.341598,
+      "recorded_at": "2026-03-13T14:49:03.342190",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 55,
+      "ros_stamp_s": 1773409743.3510957,
+      "recorded_at": "2026-03-13T14:49:03.351650",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 56,
+      "ros_stamp_s": 1773409743.3674984,
+      "recorded_at": "2026-03-13T14:49:03.368096",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 57,
+      "ros_stamp_s": 1773409743.4416525,
+      "recorded_at": "2026-03-13T14:49:03.442207",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 58,
+      "ros_stamp_s": 1773409743.4501977,
+      "recorded_at": "2026-03-13T14:49:03.450739",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 59,
+      "ros_stamp_s": 1773409743.4673467,
+      "recorded_at": "2026-03-13T14:49:03.467950",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 60,
+      "ros_stamp_s": 1773409743.542894,
+      "recorded_at": "2026-03-13T14:49:03.543459",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 61,
+      "ros_stamp_s": 1773409743.5526478,
+      "recorded_at": "2026-03-13T14:49:03.553213",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 62,
+      "ros_stamp_s": 1773409743.5678673,
+      "recorded_at": "2026-03-13T14:49:03.568515",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 63,
+      "ros_stamp_s": 1773409743.6432974,
+      "recorded_at": "2026-03-13T14:49:03.643878",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 64,
+      "ros_stamp_s": 1773409743.6529822,
+      "recorded_at": "2026-03-13T14:49:03.653589",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 65,
+      "ros_stamp_s": 1773409743.6675441,
+      "recorded_at": "2026-03-13T14:49:03.668157",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 66,
+      "ros_stamp_s": 1773409743.743366,
+      "recorded_at": "2026-03-13T14:49:03.744101",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 67,
+      "ros_stamp_s": 1773409743.7528877,
+      "recorded_at": "2026-03-13T14:49:03.753475",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 68,
+      "ros_stamp_s": 1773409743.7677283,
+      "recorded_at": "2026-03-13T14:49:03.768387",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 69,
+      "ros_stamp_s": 1773409743.8437502,
+      "recorded_at": "2026-03-13T14:49:03.844326",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 70,
+      "ros_stamp_s": 1773409743.8529274,
+      "recorded_at": "2026-03-13T14:49:03.853494",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 71,
+      "ros_stamp_s": 1773409743.8674164,
+      "recorded_at": "2026-03-13T14:49:03.868127",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 72,
+      "ros_stamp_s": 1773409743.9400823,
+      "recorded_at": "2026-03-13T14:49:03.940663",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 73,
+      "ros_stamp_s": 1773409743.949052,
+      "recorded_at": "2026-03-13T14:49:03.949651",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 74,
+      "ros_stamp_s": 1773409743.9670303,
+      "recorded_at": "2026-03-13T14:49:03.967601",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 75,
+      "ros_stamp_s": 1773409744.0425289,
+      "recorded_at": "2026-03-13T14:49:04.043104",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 76,
+      "ros_stamp_s": 1773409744.0518389,
+      "recorded_at": "2026-03-13T14:49:04.052426",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 77,
+      "ros_stamp_s": 1773409744.0677986,
+      "recorded_at": "2026-03-13T14:49:04.068399",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 78,
+      "ros_stamp_s": 1773409744.142745,
+      "recorded_at": "2026-03-13T14:49:04.143294",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 79,
+      "ros_stamp_s": 1773409744.1522164,
+      "recorded_at": "2026-03-13T14:49:04.152824",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 80,
+      "ros_stamp_s": 1773409744.1679196,
+      "recorded_at": "2026-03-13T14:49:04.168531",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 81,
+      "ros_stamp_s": 1773409744.245082,
+      "recorded_at": "2026-03-13T14:49:04.245677",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 82,
+      "ros_stamp_s": 1773409744.2543411,
+      "recorded_at": "2026-03-13T14:49:04.254930",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 83,
+      "ros_stamp_s": 1773409744.2673728,
+      "recorded_at": "2026-03-13T14:49:04.267983",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 84,
+      "ros_stamp_s": 1773409744.3370724,
+      "recorded_at": "2026-03-13T14:49:04.337629",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 85,
+      "ros_stamp_s": 1773409744.3455973,
+      "recorded_at": "2026-03-13T14:49:04.346210",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 86,
+      "ros_stamp_s": 1773409744.3672493,
+      "recorded_at": "2026-03-13T14:49:04.367825",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 87,
+      "ros_stamp_s": 1773409744.441712,
+      "recorded_at": "2026-03-13T14:49:04.442302",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 88,
+      "ros_stamp_s": 1773409744.4509406,
+      "recorded_at": "2026-03-13T14:49:04.451515",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 89,
+      "ros_stamp_s": 1773409744.4680324,
+      "recorded_at": "2026-03-13T14:49:04.468659",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 90,
+      "ros_stamp_s": 1773409744.5434005,
+      "recorded_at": "2026-03-13T14:49:04.543966",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 91,
+      "ros_stamp_s": 1773409744.5531497,
+      "recorded_at": "2026-03-13T14:49:04.553743",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 92,
+      "ros_stamp_s": 1773409744.568617,
+      "recorded_at": "2026-03-13T14:49:04.569193",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 93,
+      "ros_stamp_s": 1773409744.643568,
+      "recorded_at": "2026-03-13T14:49:04.644144",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 94,
+      "ros_stamp_s": 1773409744.6530797,
+      "recorded_at": "2026-03-13T14:49:04.653629",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 95,
+      "ros_stamp_s": 1773409744.6684272,
+      "recorded_at": "2026-03-13T14:49:04.669018",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 96,
+      "ros_stamp_s": 1773409744.7448137,
+      "recorded_at": "2026-03-13T14:49:04.745379",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 97,
+      "ros_stamp_s": 1773409744.7545948,
+      "recorded_at": "2026-03-13T14:49:04.755226",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 98,
+      "ros_stamp_s": 1773409744.7684262,
+      "recorded_at": "2026-03-13T14:49:04.769026",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 99,
+      "ros_stamp_s": 1773409744.8437893,
+      "recorded_at": "2026-03-13T14:49:04.844403",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 100,
+      "ros_stamp_s": 1773409744.8536599,
+      "recorded_at": "2026-03-13T14:49:04.854223",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 101,
+      "ros_stamp_s": 1773409744.8682108,
+      "recorded_at": "2026-03-13T14:49:04.868826",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 102,
+      "ros_stamp_s": 1773409744.9428096,
+      "recorded_at": "2026-03-13T14:49:04.943389",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 103,
+      "ros_stamp_s": 1773409744.9524665,
+      "recorded_at": "2026-03-13T14:49:04.953048",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 104,
+      "ros_stamp_s": 1773409744.9684815,
+      "recorded_at": "2026-03-13T14:49:04.969099",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 105,
+      "ros_stamp_s": 1773409745.0428498,
+      "recorded_at": "2026-03-13T14:49:05.043445",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 106,
+      "ros_stamp_s": 1773409745.0524104,
+      "recorded_at": "2026-03-13T14:49:05.052995",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 107,
+      "ros_stamp_s": 1773409745.0684867,
+      "recorded_at": "2026-03-13T14:49:05.069115",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 108,
+      "ros_stamp_s": 1773409745.1413083,
+      "recorded_at": "2026-03-13T14:49:05.141888",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 109,
+      "ros_stamp_s": 1773409745.1498194,
+      "recorded_at": "2026-03-13T14:49:05.150422",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 110,
+      "ros_stamp_s": 1773409745.1702132,
+      "recorded_at": "2026-03-13T14:49:05.170808",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 111,
+      "ros_stamp_s": 1773409745.2446942,
+      "recorded_at": "2026-03-13T14:49:05.245288",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 112,
+      "ros_stamp_s": 1773409745.2542503,
+      "recorded_at": "2026-03-13T14:49:05.254822",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 113,
+      "ros_stamp_s": 1773409745.2704773,
+      "recorded_at": "2026-03-13T14:49:05.271116",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 114,
+      "ros_stamp_s": 1773409745.3465526,
+      "recorded_at": "2026-03-13T14:49:05.347139",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 115,
+      "ros_stamp_s": 1773409745.3572745,
+      "recorded_at": "2026-03-13T14:49:05.357865",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 116,
+      "ros_stamp_s": 1773409745.369936,
+      "recorded_at": "2026-03-13T14:49:05.370522",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 117,
+      "ros_stamp_s": 1773409745.442093,
+      "recorded_at": "2026-03-13T14:49:05.442666",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 118,
+      "ros_stamp_s": 1773409745.4523578,
+      "recorded_at": "2026-03-13T14:49:05.452942",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 119,
+      "ros_stamp_s": 1773409745.4697704,
+      "recorded_at": "2026-03-13T14:49:05.470384",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 120,
+      "ros_stamp_s": 1773409745.542358,
+      "recorded_at": "2026-03-13T14:49:05.542923",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 121,
+      "ros_stamp_s": 1773409745.5526073,
+      "recorded_at": "2026-03-13T14:49:05.553180",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 122,
+      "ros_stamp_s": 1773409745.5695038,
+      "recorded_at": "2026-03-13T14:49:05.570074",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 123,
+      "ros_stamp_s": 1773409745.640046,
+      "recorded_at": "2026-03-13T14:49:05.640613",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 124,
+      "ros_stamp_s": 1773409745.650431,
+      "recorded_at": "2026-03-13T14:49:05.650993",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 125,
+      "ros_stamp_s": 1773409745.6697571,
+      "recorded_at": "2026-03-13T14:49:05.670374",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 126,
+      "ros_stamp_s": 1773409745.7422779,
+      "recorded_at": "2026-03-13T14:49:05.742839",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 127,
+      "ros_stamp_s": 1773409745.7527573,
+      "recorded_at": "2026-03-13T14:49:05.753349",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 128,
+      "ros_stamp_s": 1773409745.7701674,
+      "recorded_at": "2026-03-13T14:49:05.770737",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 129,
+      "ros_stamp_s": 1773409745.8381362,
+      "recorded_at": "2026-03-13T14:49:05.838872",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 130,
+      "ros_stamp_s": 1773409745.8487856,
+      "recorded_at": "2026-03-13T14:49:05.849352",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 131,
+      "ros_stamp_s": 1773409745.8697078,
+      "recorded_at": "2026-03-13T14:49:05.870310",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 132,
+      "ros_stamp_s": 1773409745.9426348,
+      "recorded_at": "2026-03-13T14:49:05.943179",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 133,
+      "ros_stamp_s": 1773409745.953233,
+      "recorded_at": "2026-03-13T14:49:05.953828",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 134,
+      "ros_stamp_s": 1773409745.9702594,
+      "recorded_at": "2026-03-13T14:49:05.970853",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 135,
+      "ros_stamp_s": 1773409746.0428162,
+      "recorded_at": "2026-03-13T14:49:06.043379",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 136,
+      "ros_stamp_s": 1773409746.0531647,
+      "recorded_at": "2026-03-13T14:49:06.053788",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 137,
+      "ros_stamp_s": 1773409746.0700014,
+      "recorded_at": "2026-03-13T14:49:06.070610",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 138,
+      "ros_stamp_s": 1773409746.1431801,
+      "recorded_at": "2026-03-13T14:49:06.143733",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 139,
+      "ros_stamp_s": 1773409746.1536078,
+      "recorded_at": "2026-03-13T14:49:06.154180",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 140,
+      "ros_stamp_s": 1773409746.1706352,
+      "recorded_at": "2026-03-13T14:49:06.171239",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 141,
+      "ros_stamp_s": 1773409746.2429197,
+      "recorded_at": "2026-03-13T14:49:06.243468",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 142,
+      "ros_stamp_s": 1773409746.2535567,
+      "recorded_at": "2026-03-13T14:49:06.254124",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 143,
+      "ros_stamp_s": 1773409746.2709367,
+      "recorded_at": "2026-03-13T14:49:06.271493",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 144,
+      "ros_stamp_s": 1773409746.3442886,
+      "recorded_at": "2026-03-13T14:49:06.344857",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 145,
+      "ros_stamp_s": 1773409746.3548553,
+      "recorded_at": "2026-03-13T14:49:06.355426",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 146,
+      "ros_stamp_s": 1773409746.371243,
+      "recorded_at": "2026-03-13T14:49:06.371842",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 147,
+      "ros_stamp_s": 1773409746.4432693,
+      "recorded_at": "2026-03-13T14:49:06.443830",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 148,
+      "ros_stamp_s": 1773409746.4538183,
+      "recorded_at": "2026-03-13T14:49:06.454402",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 149,
+      "ros_stamp_s": 1773409746.4708867,
+      "recorded_at": "2026-03-13T14:49:06.471429",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 150,
+      "ros_stamp_s": 1773409746.5450857,
+      "recorded_at": "2026-03-13T14:49:06.546209",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.726,
+          "bbox_center_x": 624.0,
+          "bbox_center_y": 188.0,
+          "bbox_width": 32.0,
+          "bbox_height": 176.0,
+          "depth_m": null
+        }
+      ]
+    },
+    {
+      "frame": 151,
+      "ros_stamp_s": 1773409746.5562966,
+      "recorded_at": "2026-03-13T14:49:06.557392",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.726,
+          "bbox_center_x": 624.0,
+          "bbox_center_y": 188.0,
+          "bbox_width": 32.0,
+          "bbox_height": 176.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 152,
+      "ros_stamp_s": 1773409746.571067,
+      "recorded_at": "2026-03-13T14:49:06.572100",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.726,
+          "bbox_center_x": 624.0,
+          "bbox_center_y": 188.0,
+          "bbox_width": 32.0,
+          "bbox_height": 176.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 153,
+      "ros_stamp_s": 1773409746.6404402,
+      "recorded_at": "2026-03-13T14:49:06.641395",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7718,
+          "bbox_center_x": 540.0,
+          "bbox_center_y": 188.0,
+          "bbox_width": 200.0,
+          "bbox_height": 376.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 154,
+      "ros_stamp_s": 1773409746.650947,
+      "recorded_at": "2026-03-13T14:49:06.651931",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7718,
+          "bbox_center_x": 540.0,
+          "bbox_center_y": 188.0,
+          "bbox_width": 200.0,
+          "bbox_height": 376.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 155,
+      "ros_stamp_s": 1773409746.6706734,
+      "recorded_at": "2026-03-13T14:49:06.671644",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7718,
+          "bbox_center_x": 540.0,
+          "bbox_center_y": 188.0,
+          "bbox_width": 200.0,
+          "bbox_height": 376.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 156,
+      "ros_stamp_s": 1773409746.7425625,
+      "recorded_at": "2026-03-13T14:49:06.743536",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7388,
+          "bbox_center_x": 518.5,
+          "bbox_center_y": 216.5,
+          "bbox_width": 243.0,
+          "bbox_height": 433.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 157,
+      "ros_stamp_s": 1773409746.7534883,
+      "recorded_at": "2026-03-13T14:49:06.754446",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7388,
+          "bbox_center_x": 518.5,
+          "bbox_center_y": 216.5,
+          "bbox_width": 243.0,
+          "bbox_height": 433.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 158,
+      "ros_stamp_s": 1773409746.771044,
+      "recorded_at": "2026-03-13T14:49:06.772052",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7388,
+          "bbox_center_x": 518.5,
+          "bbox_center_y": 216.5,
+          "bbox_width": 243.0,
+          "bbox_height": 433.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 159,
+      "ros_stamp_s": 1773409746.8433383,
+      "recorded_at": "2026-03-13T14:49:06.844493",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7671,
+          "bbox_center_x": 494.0,
+          "bbox_center_y": 210.5,
+          "bbox_width": 218.0,
+          "bbox_height": 421.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 160,
+      "ros_stamp_s": 1773409746.8539267,
+      "recorded_at": "2026-03-13T14:49:06.854911",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7671,
+          "bbox_center_x": 494.0,
+          "bbox_center_y": 210.5,
+          "bbox_width": 218.0,
+          "bbox_height": 421.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 161,
+      "ros_stamp_s": 1773409746.8709984,
+      "recorded_at": "2026-03-13T14:49:06.871986",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7671,
+          "bbox_center_x": 494.0,
+          "bbox_center_y": 210.5,
+          "bbox_width": 218.0,
+          "bbox_height": 421.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 162,
+      "ros_stamp_s": 1773409746.9426396,
+      "recorded_at": "2026-03-13T14:49:06.943593",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8073,
+          "bbox_center_x": 468.0,
+          "bbox_center_y": 193.5,
+          "bbox_width": 206.0,
+          "bbox_height": 387.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 163,
+      "ros_stamp_s": 1773409746.9536753,
+      "recorded_at": "2026-03-13T14:49:06.954647",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8073,
+          "bbox_center_x": 468.0,
+          "bbox_center_y": 193.5,
+          "bbox_width": 206.0,
+          "bbox_height": 387.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 164,
+      "ros_stamp_s": 1773409746.9708652,
+      "recorded_at": "2026-03-13T14:49:06.971826",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8073,
+          "bbox_center_x": 468.0,
+          "bbox_center_y": 193.5,
+          "bbox_width": 206.0,
+          "bbox_height": 387.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 165,
+      "ros_stamp_s": 1773409747.0393534,
+      "recorded_at": "2026-03-13T14:49:07.040324",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8728,
+          "bbox_center_x": 436.0,
+          "bbox_center_y": 187.0,
+          "bbox_width": 180.0,
+          "bbox_height": 374.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 166,
+      "ros_stamp_s": 1773409747.0497887,
+      "recorded_at": "2026-03-13T14:49:07.050776",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8728,
+          "bbox_center_x": 436.0,
+          "bbox_center_y": 187.0,
+          "bbox_width": 180.0,
+          "bbox_height": 374.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 167,
+      "ros_stamp_s": 1773409747.0711339,
+      "recorded_at": "2026-03-13T14:49:07.072120",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8728,
+          "bbox_center_x": 436.0,
+          "bbox_center_y": 187.0,
+          "bbox_width": 180.0,
+          "bbox_height": 374.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 168,
+      "ros_stamp_s": 1773409747.1422985,
+      "recorded_at": "2026-03-13T14:49:07.143348",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8224,
+          "bbox_center_x": 413.5,
+          "bbox_center_y": 193.5,
+          "bbox_width": 183.0,
+          "bbox_height": 387.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 169,
+      "ros_stamp_s": 1773409747.1528032,
+      "recorded_at": "2026-03-13T14:49:07.153777",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8224,
+          "bbox_center_x": 413.5,
+          "bbox_center_y": 193.5,
+          "bbox_width": 183.0,
+          "bbox_height": 387.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 170,
+      "ros_stamp_s": 1773409747.171235,
+      "recorded_at": "2026-03-13T14:49:07.172448",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8224,
+          "bbox_center_x": 413.5,
+          "bbox_center_y": 193.5,
+          "bbox_width": 183.0,
+          "bbox_height": 387.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 171,
+      "ros_stamp_s": 1773409747.2435138,
+      "recorded_at": "2026-03-13T14:49:07.244684",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7749,
+          "bbox_center_x": 429.0,
+          "bbox_center_y": 205.0,
+          "bbox_width": 168.0,
+          "bbox_height": 380.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 172,
+      "ros_stamp_s": 1773409747.2543678,
+      "recorded_at": "2026-03-13T14:49:07.255563",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7749,
+          "bbox_center_x": 429.0,
+          "bbox_center_y": 205.0,
+          "bbox_width": 168.0,
+          "bbox_height": 380.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 173,
+      "ros_stamp_s": 1773409747.2712517,
+      "recorded_at": "2026-03-13T14:49:07.272399",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7749,
+          "bbox_center_x": 429.0,
+          "bbox_center_y": 205.0,
+          "bbox_width": 168.0,
+          "bbox_height": 380.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 174,
+      "ros_stamp_s": 1773409747.3391387,
+      "recorded_at": "2026-03-13T14:49:07.340277",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7789,
+          "bbox_center_x": 476.0,
+          "bbox_center_y": 199.0,
+          "bbox_width": 172.0,
+          "bbox_height": 378.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 175,
+      "ros_stamp_s": 1773409747.3500502,
+      "recorded_at": "2026-03-13T14:49:07.351198",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7789,
+          "bbox_center_x": 476.0,
+          "bbox_center_y": 199.0,
+          "bbox_width": 172.0,
+          "bbox_height": 378.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 176,
+      "ros_stamp_s": 1773409747.3711717,
+      "recorded_at": "2026-03-13T14:49:07.372345",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7789,
+          "bbox_center_x": 476.0,
+          "bbox_center_y": 199.0,
+          "bbox_width": 172.0,
+          "bbox_height": 378.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 177,
+      "ros_stamp_s": 1773409747.4429266,
+      "recorded_at": "2026-03-13T14:49:07.444068",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7774,
+          "bbox_center_x": 457.0,
+          "bbox_center_y": 237.0,
+          "bbox_width": 186.0,
+          "bbox_height": 386.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 178,
+      "ros_stamp_s": 1773409747.453681,
+      "recorded_at": "2026-03-13T14:49:07.454836",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7774,
+          "bbox_center_x": 457.0,
+          "bbox_center_y": 237.0,
+          "bbox_width": 186.0,
+          "bbox_height": 386.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 179,
+      "ros_stamp_s": 1773409747.4714139,
+      "recorded_at": "2026-03-13T14:49:07.472560",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7774,
+          "bbox_center_x": 457.0,
+          "bbox_center_y": 237.0,
+          "bbox_width": 186.0,
+          "bbox_height": 386.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 180,
+      "ros_stamp_s": 1773409747.5435424,
+      "recorded_at": "2026-03-13T14:49:07.544706",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7883,
+          "bbox_center_x": 466.5,
+          "bbox_center_y": 230.0,
+          "bbox_width": 187.0,
+          "bbox_height": 384.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 181,
+      "ros_stamp_s": 1773409747.5544112,
+      "recorded_at": "2026-03-13T14:49:07.555547",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7883,
+          "bbox_center_x": 466.5,
+          "bbox_center_y": 230.0,
+          "bbox_width": 187.0,
+          "bbox_height": 384.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 182,
+      "ros_stamp_s": 1773409747.571458,
+      "recorded_at": "2026-03-13T14:49:07.572609",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7883,
+          "bbox_center_x": 466.5,
+          "bbox_center_y": 230.0,
+          "bbox_width": 187.0,
+          "bbox_height": 384.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 183,
+      "ros_stamp_s": 1773409747.6399064,
+      "recorded_at": "2026-03-13T14:49:07.641069",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8375,
+          "bbox_center_x": 432.0,
+          "bbox_center_y": 232.5,
+          "bbox_width": 176.0,
+          "bbox_height": 403.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 184,
+      "ros_stamp_s": 1773409747.6505468,
+      "recorded_at": "2026-03-13T14:49:07.651717",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8375,
+          "bbox_center_x": 432.0,
+          "bbox_center_y": 232.5,
+          "bbox_width": 176.0,
+          "bbox_height": 403.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 185,
+      "ros_stamp_s": 1773409747.671224,
+      "recorded_at": "2026-03-13T14:49:07.672377",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8375,
+          "bbox_center_x": 432.0,
+          "bbox_center_y": 232.5,
+          "bbox_width": 176.0,
+          "bbox_height": 403.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 186,
+      "ros_stamp_s": 1773409747.7421215,
+      "recorded_at": "2026-03-13T14:49:07.743293",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8477,
+          "bbox_center_x": 405.5,
+          "bbox_center_y": 276.0,
+          "bbox_width": 165.0,
+          "bbox_height": 408.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 187,
+      "ros_stamp_s": 1773409747.7528577,
+      "recorded_at": "2026-03-13T14:49:07.753997",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8477,
+          "bbox_center_x": 405.5,
+          "bbox_center_y": 276.0,
+          "bbox_width": 165.0,
+          "bbox_height": 408.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 188,
+      "ros_stamp_s": 1773409747.7716596,
+      "recorded_at": "2026-03-13T14:49:07.772838",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8477,
+          "bbox_center_x": 405.5,
+          "bbox_center_y": 276.0,
+          "bbox_width": 165.0,
+          "bbox_height": 408.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 189,
+      "ros_stamp_s": 1773409747.8396304,
+      "recorded_at": "2026-03-13T14:49:07.840783",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8322,
+          "bbox_center_x": 387.5,
+          "bbox_center_y": 301.0,
+          "bbox_width": 183.0,
+          "bbox_height": 358.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 190,
+      "ros_stamp_s": 1773409747.850321,
+      "recorded_at": "2026-03-13T14:49:07.851492",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8322,
+          "bbox_center_x": 387.5,
+          "bbox_center_y": 301.0,
+          "bbox_width": 183.0,
+          "bbox_height": 358.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 191,
+      "ros_stamp_s": 1773409747.87153,
+      "recorded_at": "2026-03-13T14:49:07.872686",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8322,
+          "bbox_center_x": 387.5,
+          "bbox_center_y": 301.0,
+          "bbox_width": 183.0,
+          "bbox_height": 358.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 192,
+      "ros_stamp_s": 1773409747.9400265,
+      "recorded_at": "2026-03-13T14:49:07.941173",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8247,
+          "bbox_center_x": 362.0,
+          "bbox_center_y": 295.5,
+          "bbox_width": 172.0,
+          "bbox_height": 369.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 193,
+      "ros_stamp_s": 1773409747.950753,
+      "recorded_at": "2026-03-13T14:49:07.951921",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8247,
+          "bbox_center_x": 362.0,
+          "bbox_center_y": 295.5,
+          "bbox_width": 172.0,
+          "bbox_height": 369.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 194,
+      "ros_stamp_s": 1773409747.9716194,
+      "recorded_at": "2026-03-13T14:49:07.972777",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8247,
+          "bbox_center_x": 362.0,
+          "bbox_center_y": 295.5,
+          "bbox_width": 172.0,
+          "bbox_height": 369.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 195,
+      "ros_stamp_s": 1773409748.0405595,
+      "recorded_at": "2026-03-13T14:49:08.041705",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8439,
+          "bbox_center_x": 363.0,
+          "bbox_center_y": 252.0,
+          "bbox_width": 174.0,
+          "bbox_height": 388.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 196,
+      "ros_stamp_s": 1773409748.0519512,
+      "recorded_at": "2026-03-13T14:49:08.053038",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8439,
+          "bbox_center_x": 363.0,
+          "bbox_center_y": 252.0,
+          "bbox_width": 174.0,
+          "bbox_height": 388.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 197,
+      "ros_stamp_s": 1773409748.0714085,
+      "recorded_at": "2026-03-13T14:49:08.072356",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8439,
+          "bbox_center_x": 363.0,
+          "bbox_center_y": 252.0,
+          "bbox_width": 174.0,
+          "bbox_height": 388.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 198,
+      "ros_stamp_s": 1773409748.1418176,
+      "recorded_at": "2026-03-13T14:49:08.142759",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8086,
+          "bbox_center_x": 356.5,
+          "bbox_center_y": 221.0,
+          "bbox_width": 183.0,
+          "bbox_height": 390.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 199,
+      "ros_stamp_s": 1773409748.1524863,
+      "recorded_at": "2026-03-13T14:49:08.153522",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8086,
+          "bbox_center_x": 356.5,
+          "bbox_center_y": 221.0,
+          "bbox_width": 183.0,
+          "bbox_height": 390.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 200,
+      "ros_stamp_s": 1773409748.1727173,
+      "recorded_at": "2026-03-13T14:49:08.173668",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8086,
+          "bbox_center_x": 356.5,
+          "bbox_center_y": 221.0,
+          "bbox_width": 183.0,
+          "bbox_height": 390.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 201,
+      "ros_stamp_s": 1773409748.2441573,
+      "recorded_at": "2026-03-13T14:49:08.245105",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8152,
+          "bbox_center_x": 345.5,
+          "bbox_center_y": 197.0,
+          "bbox_width": 165.0,
+          "bbox_height": 394.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 202,
+      "ros_stamp_s": 1773409748.254882,
+      "recorded_at": "2026-03-13T14:49:08.256034",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8152,
+          "bbox_center_x": 345.5,
+          "bbox_center_y": 197.0,
+          "bbox_width": 165.0,
+          "bbox_height": 394.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 203,
+      "ros_stamp_s": 1773409748.27151,
+      "recorded_at": "2026-03-13T14:49:08.272661",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8152,
+          "bbox_center_x": 345.5,
+          "bbox_center_y": 197.0,
+          "bbox_width": 165.0,
+          "bbox_height": 394.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 204,
+      "ros_stamp_s": 1773409748.3434803,
+      "recorded_at": "2026-03-13T14:49:08.344403",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8325,
+          "bbox_center_x": 340.0,
+          "bbox_center_y": 194.5,
+          "bbox_width": 168.0,
+          "bbox_height": 389.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 205,
+      "ros_stamp_s": 1773409748.3539426,
+      "recorded_at": "2026-03-13T14:49:08.354922",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8325,
+          "bbox_center_x": 340.0,
+          "bbox_center_y": 194.5,
+          "bbox_width": 168.0,
+          "bbox_height": 389.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 206,
+      "ros_stamp_s": 1773409748.3717422,
+      "recorded_at": "2026-03-13T14:49:08.372694",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8325,
+          "bbox_center_x": 340.0,
+          "bbox_center_y": 194.5,
+          "bbox_width": 168.0,
+          "bbox_height": 389.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 207,
+      "ros_stamp_s": 1773409748.4432554,
+      "recorded_at": "2026-03-13T14:49:08.444191",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8039,
+          "bbox_center_x": 343.5,
+          "bbox_center_y": 204.0,
+          "bbox_width": 179.0,
+          "bbox_height": 396.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 208,
+      "ros_stamp_s": 1773409748.4536479,
+      "recorded_at": "2026-03-13T14:49:08.454610",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8039,
+          "bbox_center_x": 343.5,
+          "bbox_center_y": 204.0,
+          "bbox_width": 179.0,
+          "bbox_height": 396.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 209,
+      "ros_stamp_s": 1773409748.4717994,
+      "recorded_at": "2026-03-13T14:49:08.472764",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8039,
+          "bbox_center_x": 343.5,
+          "bbox_center_y": 204.0,
+          "bbox_width": 179.0,
+          "bbox_height": 396.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 210,
+      "ros_stamp_s": 1773409748.544332,
+      "recorded_at": "2026-03-13T14:49:08.545288",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7934,
+          "bbox_center_x": 346.5,
+          "bbox_center_y": 245.0,
+          "bbox_width": 177.0,
+          "bbox_height": 390.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 211,
+      "ros_stamp_s": 1773409748.5548134,
+      "recorded_at": "2026-03-13T14:49:08.555751",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7934,
+          "bbox_center_x": 346.5,
+          "bbox_center_y": 245.0,
+          "bbox_width": 177.0,
+          "bbox_height": 390.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 212,
+      "ros_stamp_s": 1773409748.5717754,
+      "recorded_at": "2026-03-13T14:49:08.572746",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7934,
+          "bbox_center_x": 346.5,
+          "bbox_center_y": 245.0,
+          "bbox_width": 177.0,
+          "bbox_height": 390.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 213,
+      "ros_stamp_s": 1773409748.6440058,
+      "recorded_at": "2026-03-13T14:49:08.644950",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8146,
+          "bbox_center_x": 343.5,
+          "bbox_center_y": 274.0,
+          "bbox_width": 163.0,
+          "bbox_height": 380.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 214,
+      "ros_stamp_s": 1773409748.6544843,
+      "recorded_at": "2026-03-13T14:49:08.655445",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8146,
+          "bbox_center_x": 343.5,
+          "bbox_center_y": 274.0,
+          "bbox_width": 163.0,
+          "bbox_height": 380.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 215,
+      "ros_stamp_s": 1773409748.6724474,
+      "recorded_at": "2026-03-13T14:49:08.673422",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8146,
+          "bbox_center_x": 343.5,
+          "bbox_center_y": 274.0,
+          "bbox_width": 163.0,
+          "bbox_height": 380.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 216,
+      "ros_stamp_s": 1773409748.7439046,
+      "recorded_at": "2026-03-13T14:49:08.745078",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7936,
+          "bbox_center_x": 344.0,
+          "bbox_center_y": 281.5,
+          "bbox_width": 164.0,
+          "bbox_height": 381.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 217,
+      "ros_stamp_s": 1773409748.754876,
+      "recorded_at": "2026-03-13T14:49:08.755836",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7936,
+          "bbox_center_x": 344.0,
+          "bbox_center_y": 281.5,
+          "bbox_width": 164.0,
+          "bbox_height": 381.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 218,
+      "ros_stamp_s": 1773409748.7719698,
+      "recorded_at": "2026-03-13T14:49:08.773146",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7936,
+          "bbox_center_x": 344.0,
+          "bbox_center_y": 281.5,
+          "bbox_width": 164.0,
+          "bbox_height": 381.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 219,
+      "ros_stamp_s": 1773409748.8430603,
+      "recorded_at": "2026-03-13T14:49:08.844016",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8309,
+          "bbox_center_x": 343.0,
+          "bbox_center_y": 273.5,
+          "bbox_width": 164.0,
+          "bbox_height": 375.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 220,
+      "ros_stamp_s": 1773409748.8538172,
+      "recorded_at": "2026-03-13T14:49:08.854831",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8309,
+          "bbox_center_x": 343.0,
+          "bbox_center_y": 273.5,
+          "bbox_width": 164.0,
+          "bbox_height": 375.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 221,
+      "ros_stamp_s": 1773409748.872362,
+      "recorded_at": "2026-03-13T14:49:08.873336",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8309,
+          "bbox_center_x": 343.0,
+          "bbox_center_y": 273.5,
+          "bbox_width": 164.0,
+          "bbox_height": 375.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 222,
+      "ros_stamp_s": 1773409748.943617,
+      "recorded_at": "2026-03-13T14:49:08.944555",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.788,
+          "bbox_center_x": 349.0,
+          "bbox_center_y": 263.5,
+          "bbox_width": 166.0,
+          "bbox_height": 381.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 223,
+      "ros_stamp_s": 1773409748.9545338,
+      "recorded_at": "2026-03-13T14:49:08.955484",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.788,
+          "bbox_center_x": 349.0,
+          "bbox_center_y": 263.5,
+          "bbox_width": 166.0,
+          "bbox_height": 381.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 224,
+      "ros_stamp_s": 1773409748.972083,
+      "recorded_at": "2026-03-13T14:49:08.973060",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.788,
+          "bbox_center_x": 349.0,
+          "bbox_center_y": 263.5,
+          "bbox_width": 166.0,
+          "bbox_height": 381.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 225,
+      "ros_stamp_s": 1773409749.0441427,
+      "recorded_at": "2026-03-13T14:49:09.045123",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7853,
+          "bbox_center_x": 349.5,
+          "bbox_center_y": 266.0,
+          "bbox_width": 165.0,
+          "bbox_height": 382.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 226,
+      "ros_stamp_s": 1773409749.054993,
+      "recorded_at": "2026-03-13T14:49:09.055947",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7853,
+          "bbox_center_x": 349.5,
+          "bbox_center_y": 266.0,
+          "bbox_width": 165.0,
+          "bbox_height": 382.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 227,
+      "ros_stamp_s": 1773409749.0726404,
+      "recorded_at": "2026-03-13T14:49:09.073820",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7853,
+          "bbox_center_x": 349.5,
+          "bbox_center_y": 266.0,
+          "bbox_width": 165.0,
+          "bbox_height": 382.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 228,
+      "ros_stamp_s": 1773409749.1437097,
+      "recorded_at": "2026-03-13T14:49:09.144665",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8075,
+          "bbox_center_x": 352.0,
+          "bbox_center_y": 265.5,
+          "bbox_width": 166.0,
+          "bbox_height": 379.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 229,
+      "ros_stamp_s": 1773409749.1547134,
+      "recorded_at": "2026-03-13T14:49:09.155877",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8075,
+          "bbox_center_x": 352.0,
+          "bbox_center_y": 265.5,
+          "bbox_width": 166.0,
+          "bbox_height": 379.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 230,
+      "ros_stamp_s": 1773409749.1728113,
+      "recorded_at": "2026-03-13T14:49:09.173779",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8075,
+          "bbox_center_x": 352.0,
+          "bbox_center_y": 265.5,
+          "bbox_width": 166.0,
+          "bbox_height": 379.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 231,
+      "ros_stamp_s": 1773409749.2456145,
+      "recorded_at": "2026-03-13T14:49:09.246789",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7904,
+          "bbox_center_x": 349.5,
+          "bbox_center_y": 264.0,
+          "bbox_width": 163.0,
+          "bbox_height": 380.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 232,
+      "ros_stamp_s": 1773409749.256318,
+      "recorded_at": "2026-03-13T14:49:09.257248",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7904,
+          "bbox_center_x": 349.5,
+          "bbox_center_y": 264.0,
+          "bbox_width": 163.0,
+          "bbox_height": 380.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 233,
+      "ros_stamp_s": 1773409749.2723708,
+      "recorded_at": "2026-03-13T14:49:09.273542",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7904,
+          "bbox_center_x": 349.5,
+          "bbox_center_y": 264.0,
+          "bbox_width": 163.0,
+          "bbox_height": 380.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 234,
+      "ros_stamp_s": 1773409749.343437,
+      "recorded_at": "2026-03-13T14:49:09.344369",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8048,
+          "bbox_center_x": 344.5,
+          "bbox_center_y": 268.5,
+          "bbox_width": 161.0,
+          "bbox_height": 381.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 235,
+      "ros_stamp_s": 1773409749.354077,
+      "recorded_at": "2026-03-13T14:49:09.355217",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8048,
+          "bbox_center_x": 344.5,
+          "bbox_center_y": 268.5,
+          "bbox_width": 161.0,
+          "bbox_height": 381.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 236,
+      "ros_stamp_s": 1773409749.3723602,
+      "recorded_at": "2026-03-13T14:49:09.373315",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8048,
+          "bbox_center_x": 344.5,
+          "bbox_center_y": 268.5,
+          "bbox_width": 161.0,
+          "bbox_height": 381.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 237,
+      "ros_stamp_s": 1773409749.4451199,
+      "recorded_at": "2026-03-13T14:49:09.446296",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8147,
+          "bbox_center_x": 342.5,
+          "bbox_center_y": 276.5,
+          "bbox_width": 165.0,
+          "bbox_height": 379.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 238,
+      "ros_stamp_s": 1773409749.4557726,
+      "recorded_at": "2026-03-13T14:49:09.456746",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8147,
+          "bbox_center_x": 342.5,
+          "bbox_center_y": 276.5,
+          "bbox_width": 165.0,
+          "bbox_height": 379.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 239,
+      "ros_stamp_s": 1773409749.472954,
+      "recorded_at": "2026-03-13T14:49:09.474152",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8147,
+          "bbox_center_x": 342.5,
+          "bbox_center_y": 276.5,
+          "bbox_width": 165.0,
+          "bbox_height": 379.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 240,
+      "ros_stamp_s": 1773409749.5442867,
+      "recorded_at": "2026-03-13T14:49:09.545205",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.809,
+          "bbox_center_x": 343.0,
+          "bbox_center_y": 282.0,
+          "bbox_width": 164.0,
+          "bbox_height": 380.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 241,
+      "ros_stamp_s": 1773409749.5550244,
+      "recorded_at": "2026-03-13T14:49:09.555966",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.809,
+          "bbox_center_x": 343.0,
+          "bbox_center_y": 282.0,
+          "bbox_width": 164.0,
+          "bbox_height": 380.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 242,
+      "ros_stamp_s": 1773409749.5730503,
+      "recorded_at": "2026-03-13T14:49:09.574036",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.809,
+          "bbox_center_x": 343.0,
+          "bbox_center_y": 282.0,
+          "bbox_width": 164.0,
+          "bbox_height": 380.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 243,
+      "ros_stamp_s": 1773409749.643524,
+      "recorded_at": "2026-03-13T14:49:09.644671",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7965,
+          "bbox_center_x": 345.0,
+          "bbox_center_y": 279.5,
+          "bbox_width": 162.0,
+          "bbox_height": 377.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 244,
+      "ros_stamp_s": 1773409749.6543388,
+      "recorded_at": "2026-03-13T14:49:09.655292",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7965,
+          "bbox_center_x": 345.0,
+          "bbox_center_y": 279.5,
+          "bbox_width": 162.0,
+          "bbox_height": 377.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 245,
+      "ros_stamp_s": 1773409749.6730666,
+      "recorded_at": "2026-03-13T14:49:09.674232",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7965,
+          "bbox_center_x": 345.0,
+          "bbox_center_y": 279.5,
+          "bbox_width": 162.0,
+          "bbox_height": 377.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 246,
+      "ros_stamp_s": 1773409749.7412548,
+      "recorded_at": "2026-03-13T14:49:09.742220",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.792,
+          "bbox_center_x": 347.0,
+          "bbox_center_y": 275.5,
+          "bbox_width": 164.0,
+          "bbox_height": 375.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 247,
+      "ros_stamp_s": 1773409749.751736,
+      "recorded_at": "2026-03-13T14:49:09.752894",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.792,
+          "bbox_center_x": 347.0,
+          "bbox_center_y": 275.5,
+          "bbox_width": 164.0,
+          "bbox_height": 375.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 248,
+      "ros_stamp_s": 1773409749.773111,
+      "recorded_at": "2026-03-13T14:49:09.774300",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.792,
+          "bbox_center_x": 347.0,
+          "bbox_center_y": 275.5,
+          "bbox_width": 164.0,
+          "bbox_height": 375.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 249,
+      "ros_stamp_s": 1773409749.844702,
+      "recorded_at": "2026-03-13T14:49:09.845802",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7952,
+          "bbox_center_x": 347.0,
+          "bbox_center_y": 274.5,
+          "bbox_width": 162.0,
+          "bbox_height": 379.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 250,
+      "ros_stamp_s": 1773409749.8562138,
+      "recorded_at": "2026-03-13T14:49:09.857380",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7952,
+          "bbox_center_x": 347.0,
+          "bbox_center_y": 274.5,
+          "bbox_width": 162.0,
+          "bbox_height": 379.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 251,
+      "ros_stamp_s": 1773409749.8726826,
+      "recorded_at": "2026-03-13T14:49:09.873678",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7952,
+          "bbox_center_x": 347.0,
+          "bbox_center_y": 274.5,
+          "bbox_width": 162.0,
+          "bbox_height": 379.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 252,
+      "ros_stamp_s": 1773409749.941507,
+      "recorded_at": "2026-03-13T14:49:09.942672",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8348,
+          "bbox_center_x": 330.5,
+          "bbox_center_y": 286.5,
+          "bbox_width": 159.0,
+          "bbox_height": 387.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 253,
+      "ros_stamp_s": 1773409749.9523113,
+      "recorded_at": "2026-03-13T14:49:09.953496",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8348,
+          "bbox_center_x": 330.5,
+          "bbox_center_y": 286.5,
+          "bbox_width": 159.0,
+          "bbox_height": 387.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 254,
+      "ros_stamp_s": 1773409749.9727166,
+      "recorded_at": "2026-03-13T14:49:09.973705",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8348,
+          "bbox_center_x": 330.5,
+          "bbox_center_y": 286.5,
+          "bbox_width": 159.0,
+          "bbox_height": 387.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 255,
+      "ros_stamp_s": 1773409750.0439277,
+      "recorded_at": "2026-03-13T14:49:10.045103",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7888,
+          "bbox_center_x": 265.5,
+          "bbox_center_y": 314.0,
+          "bbox_width": 163.0,
+          "bbox_height": 332.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 256,
+      "ros_stamp_s": 1773409750.0551457,
+      "recorded_at": "2026-03-13T14:49:10.056147",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7888,
+          "bbox_center_x": 265.5,
+          "bbox_center_y": 314.0,
+          "bbox_width": 163.0,
+          "bbox_height": 332.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 257,
+      "ros_stamp_s": 1773409750.0734015,
+      "recorded_at": "2026-03-13T14:49:10.074354",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7888,
+          "bbox_center_x": 265.5,
+          "bbox_center_y": 314.0,
+          "bbox_width": 163.0,
+          "bbox_height": 332.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 258,
+      "ros_stamp_s": 1773409750.144516,
+      "recorded_at": "2026-03-13T14:49:10.145481",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8102,
+          "bbox_center_x": 120.0,
+          "bbox_center_y": 337.5,
+          "bbox_width": 178.0,
+          "bbox_height": 285.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 259,
+      "ros_stamp_s": 1773409750.1547408,
+      "recorded_at": "2026-03-13T14:49:10.155709",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8102,
+          "bbox_center_x": 120.0,
+          "bbox_center_y": 337.5,
+          "bbox_width": 178.0,
+          "bbox_height": 285.0,
+          "depth_m": 0.295
+        }
+      ]
+    },
+    {
+      "frame": 260,
+      "ros_stamp_s": 1773409750.1732397,
+      "recorded_at": "2026-03-13T14:49:10.174237",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8102,
+          "bbox_center_x": 120.0,
+          "bbox_center_y": 337.5,
+          "bbox_width": 178.0,
+          "bbox_height": 285.0,
+          "depth_m": 0.295
+        }
+      ]
+    },
+    {
+      "frame": 261,
+      "ros_stamp_s": 1773409750.2448335,
+      "recorded_at": "2026-03-13T14:49:10.245419",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 262,
+      "ros_stamp_s": 1773409750.2557573,
+      "recorded_at": "2026-03-13T14:49:10.256350",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 263,
+      "ros_stamp_s": 1773409750.2734687,
+      "recorded_at": "2026-03-13T14:49:10.274057",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 264,
+      "ros_stamp_s": 1773409750.3437455,
+      "recorded_at": "2026-03-13T14:49:10.344333",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 265,
+      "ros_stamp_s": 1773409750.3541512,
+      "recorded_at": "2026-03-13T14:49:10.354704",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 266,
+      "ros_stamp_s": 1773409750.3732076,
+      "recorded_at": "2026-03-13T14:49:10.373815",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 267,
+      "ros_stamp_s": 1773409750.4459896,
+      "recorded_at": "2026-03-13T14:49:10.446556",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 268,
+      "ros_stamp_s": 1773409750.4565868,
+      "recorded_at": "2026-03-13T14:49:10.457173",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 269,
+      "ros_stamp_s": 1773409750.4737272,
+      "recorded_at": "2026-03-13T14:49:10.474309",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 270,
+      "ros_stamp_s": 1773409750.5463095,
+      "recorded_at": "2026-03-13T14:49:10.546902",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 271,
+      "ros_stamp_s": 1773409750.556896,
+      "recorded_at": "2026-03-13T14:49:10.557453",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 272,
+      "ros_stamp_s": 1773409750.5740108,
+      "recorded_at": "2026-03-13T14:49:10.574567",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 273,
+      "ros_stamp_s": 1773409750.6464143,
+      "recorded_at": "2026-03-13T14:49:10.646973",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 274,
+      "ros_stamp_s": 1773409750.6570473,
+      "recorded_at": "2026-03-13T14:49:10.657622",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 275,
+      "ros_stamp_s": 1773409750.6736772,
+      "recorded_at": "2026-03-13T14:49:10.674258",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 276,
+      "ros_stamp_s": 1773409750.7468936,
+      "recorded_at": "2026-03-13T14:49:10.747456",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 277,
+      "ros_stamp_s": 1773409750.757743,
+      "recorded_at": "2026-03-13T14:49:10.758294",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 278,
+      "ros_stamp_s": 1773409750.7744346,
+      "recorded_at": "2026-03-13T14:49:10.775173",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 279,
+      "ros_stamp_s": 1773409750.8400257,
+      "recorded_at": "2026-03-13T14:49:10.840616",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 280,
+      "ros_stamp_s": 1773409750.85087,
+      "recorded_at": "2026-03-13T14:49:10.851469",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 281,
+      "ros_stamp_s": 1773409750.8733237,
+      "recorded_at": "2026-03-13T14:49:10.874105",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 282,
+      "ros_stamp_s": 1773409750.9441211,
+      "recorded_at": "2026-03-13T14:49:10.944682",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 283,
+      "ros_stamp_s": 1773409750.9549046,
+      "recorded_at": "2026-03-13T14:49:10.955460",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 284,
+      "ros_stamp_s": 1773409750.9739518,
+      "recorded_at": "2026-03-13T14:49:10.974708",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 285,
+      "ros_stamp_s": 1773409751.0466046,
+      "recorded_at": "2026-03-13T14:49:11.047167",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 286,
+      "ros_stamp_s": 1773409751.0572786,
+      "recorded_at": "2026-03-13T14:49:11.057863",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 287,
+      "ros_stamp_s": 1773409751.0740533,
+      "recorded_at": "2026-03-13T14:49:11.074849",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 288,
+      "ros_stamp_s": 1773409751.1459494,
+      "recorded_at": "2026-03-13T14:49:11.146679",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 289,
+      "ros_stamp_s": 1773409751.1568444,
+      "recorded_at": "2026-03-13T14:49:11.157588",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 290,
+      "ros_stamp_s": 1773409751.1741025,
+      "recorded_at": "2026-03-13T14:49:11.174868",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 291,
+      "ros_stamp_s": 1773409751.2457967,
+      "recorded_at": "2026-03-13T14:49:11.246360",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 292,
+      "ros_stamp_s": 1773409751.2562838,
+      "recorded_at": "2026-03-13T14:49:11.256860",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 293,
+      "ros_stamp_s": 1773409751.2744105,
+      "recorded_at": "2026-03-13T14:49:11.275174",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 294,
+      "ros_stamp_s": 1773409751.3473742,
+      "recorded_at": "2026-03-13T14:49:11.347938",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 295,
+      "ros_stamp_s": 1773409751.3576334,
+      "recorded_at": "2026-03-13T14:49:11.358206",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 296,
+      "ros_stamp_s": 1773409751.3741186,
+      "recorded_at": "2026-03-13T14:49:11.374692",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 297,
+      "ros_stamp_s": 1773409751.4470549,
+      "recorded_at": "2026-03-13T14:49:11.447624",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 298,
+      "ros_stamp_s": 1773409751.457436,
+      "recorded_at": "2026-03-13T14:49:11.458004",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 299,
+      "ros_stamp_s": 1773409751.4739914,
+      "recorded_at": "2026-03-13T14:49:11.474589",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 300,
+      "ros_stamp_s": 1773409751.5470629,
+      "recorded_at": "2026-03-13T14:49:11.547623",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 301,
+      "ros_stamp_s": 1773409751.5574415,
+      "recorded_at": "2026-03-13T14:49:11.558035",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 302,
+      "ros_stamp_s": 1773409751.5743954,
+      "recorded_at": "2026-03-13T14:49:11.574995",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 303,
+      "ros_stamp_s": 1773409751.64687,
+      "recorded_at": "2026-03-13T14:49:11.647409",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 304,
+      "ros_stamp_s": 1773409751.657525,
+      "recorded_at": "2026-03-13T14:49:11.658105",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 305,
+      "ros_stamp_s": 1773409751.6744542,
+      "recorded_at": "2026-03-13T14:49:11.675061",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 306,
+      "ros_stamp_s": 1773409751.747026,
+      "recorded_at": "2026-03-13T14:49:11.747585",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 307,
+      "ros_stamp_s": 1773409751.7579129,
+      "recorded_at": "2026-03-13T14:49:11.758501",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 308,
+      "ros_stamp_s": 1773409751.7745597,
+      "recorded_at": "2026-03-13T14:49:11.775133",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 309,
+      "ros_stamp_s": 1773409751.8481138,
+      "recorded_at": "2026-03-13T14:49:11.848646",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 310,
+      "ros_stamp_s": 1773409751.8590326,
+      "recorded_at": "2026-03-13T14:49:11.859567",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 311,
+      "ros_stamp_s": 1773409751.8745742,
+      "recorded_at": "2026-03-13T14:49:11.875145",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 312,
+      "ros_stamp_s": 1773409751.9469063,
+      "recorded_at": "2026-03-13T14:49:11.947540",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 313,
+      "ros_stamp_s": 1773409751.957533,
+      "recorded_at": "2026-03-13T14:49:11.958125",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 314,
+      "ros_stamp_s": 1773409751.974474,
+      "recorded_at": "2026-03-13T14:49:11.975066",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 315,
+      "ros_stamp_s": 1773409752.0481803,
+      "recorded_at": "2026-03-13T14:49:12.048734",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 316,
+      "ros_stamp_s": 1773409752.0587156,
+      "recorded_at": "2026-03-13T14:49:12.059273",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 317,
+      "ros_stamp_s": 1773409752.0744708,
+      "recorded_at": "2026-03-13T14:49:12.075035",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 318,
+      "ros_stamp_s": 1773409752.1460083,
+      "recorded_at": "2026-03-13T14:49:12.146561",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 319,
+      "ros_stamp_s": 1773409752.1564536,
+      "recorded_at": "2026-03-13T14:49:12.157200",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 320,
+      "ros_stamp_s": 1773409752.174452,
+      "recorded_at": "2026-03-13T14:49:12.175076",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 321,
+      "ros_stamp_s": 1773409752.247395,
+      "recorded_at": "2026-03-13T14:49:12.247938",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 322,
+      "ros_stamp_s": 1773409752.2578087,
+      "recorded_at": "2026-03-13T14:49:12.258366",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 323,
+      "ros_stamp_s": 1773409752.2748947,
+      "recorded_at": "2026-03-13T14:49:12.275462",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 324,
+      "ros_stamp_s": 1773409752.347916,
+      "recorded_at": "2026-03-13T14:49:12.348488",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 325,
+      "ros_stamp_s": 1773409752.3582494,
+      "recorded_at": "2026-03-13T14:49:12.358810",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 326,
+      "ros_stamp_s": 1773409752.3748128,
+      "recorded_at": "2026-03-13T14:49:12.375396",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 327,
+      "ros_stamp_s": 1773409752.4467387,
+      "recorded_at": "2026-03-13T14:49:12.447318",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 328,
+      "ros_stamp_s": 1773409752.4571278,
+      "recorded_at": "2026-03-13T14:49:12.457688",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 329,
+      "ros_stamp_s": 1773409752.475015,
+      "recorded_at": "2026-03-13T14:49:12.475571",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 330,
+      "ros_stamp_s": 1773409752.5475926,
+      "recorded_at": "2026-03-13T14:49:12.548249",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 331,
+      "ros_stamp_s": 1773409752.5577812,
+      "recorded_at": "2026-03-13T14:49:12.558378",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 332,
+      "ros_stamp_s": 1773409752.5750504,
+      "recorded_at": "2026-03-13T14:49:12.575657",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 333,
+      "ros_stamp_s": 1773409752.647883,
+      "recorded_at": "2026-03-13T14:49:12.648434",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 334,
+      "ros_stamp_s": 1773409752.6584475,
+      "recorded_at": "2026-03-13T14:49:12.659050",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 335,
+      "ros_stamp_s": 1773409752.675062,
+      "recorded_at": "2026-03-13T14:49:12.675617",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 336,
+      "ros_stamp_s": 1773409752.7477427,
+      "recorded_at": "2026-03-13T14:49:12.748388",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 337,
+      "ros_stamp_s": 1773409752.7580492,
+      "recorded_at": "2026-03-13T14:49:12.758606",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 338,
+      "ros_stamp_s": 1773409752.7745926,
+      "recorded_at": "2026-03-13T14:49:12.775183",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 339,
+      "ros_stamp_s": 1773409752.8454103,
+      "recorded_at": "2026-03-13T14:49:12.846006",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 340,
+      "ros_stamp_s": 1773409752.8565989,
+      "recorded_at": "2026-03-13T14:49:12.857165",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 341,
+      "ros_stamp_s": 1773409752.8747573,
+      "recorded_at": "2026-03-13T14:49:12.875334",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 342,
+      "ros_stamp_s": 1773409752.9448664,
+      "recorded_at": "2026-03-13T14:49:12.945541",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 343,
+      "ros_stamp_s": 1773409752.9547694,
+      "recorded_at": "2026-03-13T14:49:12.955424",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 344,
+      "ros_stamp_s": 1773409752.9744065,
+      "recorded_at": "2026-03-13T14:49:12.975138",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 345,
+      "ros_stamp_s": 1773409753.047058,
+      "recorded_at": "2026-03-13T14:49:13.047748",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 346,
+      "ros_stamp_s": 1773409753.0570395,
+      "recorded_at": "2026-03-13T14:49:13.057630",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 347,
+      "ros_stamp_s": 1773409753.0744276,
+      "recorded_at": "2026-03-13T14:49:13.075007",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 348,
+      "ros_stamp_s": 1773409753.145903,
+      "recorded_at": "2026-03-13T14:49:13.146466",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 349,
+      "ros_stamp_s": 1773409753.1552267,
+      "recorded_at": "2026-03-13T14:49:13.155809",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 350,
+      "ros_stamp_s": 1773409753.1743572,
+      "recorded_at": "2026-03-13T14:49:13.175206",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 351,
+      "ros_stamp_s": 1773409753.249139,
+      "recorded_at": "2026-03-13T14:49:13.249785",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 352,
+      "ros_stamp_s": 1773409753.258506,
+      "recorded_at": "2026-03-13T14:49:13.259247",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 353,
+      "ros_stamp_s": 1773409753.274637,
+      "recorded_at": "2026-03-13T14:49:13.275391",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 354,
+      "ros_stamp_s": 1773409753.348718,
+      "recorded_at": "2026-03-13T14:49:13.349375",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 355,
+      "ros_stamp_s": 1773409753.3579757,
+      "recorded_at": "2026-03-13T14:49:13.358716",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 356,
+      "ros_stamp_s": 1773409753.3745158,
+      "recorded_at": "2026-03-13T14:49:13.375352",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 357,
+      "ros_stamp_s": 1773409753.4518487,
+      "recorded_at": "2026-03-13T14:49:13.452607",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 358,
+      "ros_stamp_s": 1773409753.4604518,
+      "recorded_at": "2026-03-13T14:49:13.461260",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 359,
+      "ros_stamp_s": 1773409753.4745064,
+      "recorded_at": "2026-03-13T14:49:13.475290",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 360,
+      "ros_stamp_s": 1773409753.547431,
+      "recorded_at": "2026-03-13T14:49:13.547996",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 361,
+      "ros_stamp_s": 1773409753.556524,
+      "recorded_at": "2026-03-13T14:49:13.557186",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 362,
+      "ros_stamp_s": 1773409753.5751226,
+      "recorded_at": "2026-03-13T14:49:13.575729",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 363,
+      "ros_stamp_s": 1773409753.6491508,
+      "recorded_at": "2026-03-13T14:49:13.649786",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 364,
+      "ros_stamp_s": 1773409753.6581702,
+      "recorded_at": "2026-03-13T14:49:13.658950",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 365,
+      "ros_stamp_s": 1773409753.6749167,
+      "recorded_at": "2026-03-13T14:49:13.675527",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 366,
+      "ros_stamp_s": 1773409753.7489946,
+      "recorded_at": "2026-03-13T14:49:13.749655",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 367,
+      "ros_stamp_s": 1773409753.758101,
+      "recorded_at": "2026-03-13T14:49:13.758839",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 368,
+      "ros_stamp_s": 1773409753.7750533,
+      "recorded_at": "2026-03-13T14:49:13.775749",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 369,
+      "ros_stamp_s": 1773409753.850904,
+      "recorded_at": "2026-03-13T14:49:13.851663",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 370,
+      "ros_stamp_s": 1773409753.8606555,
+      "recorded_at": "2026-03-13T14:49:13.861250",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 371,
+      "ros_stamp_s": 1773409753.8750236,
+      "recorded_at": "2026-03-13T14:49:13.875899",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 372,
+      "ros_stamp_s": 1773409753.9482512,
+      "recorded_at": "2026-03-13T14:49:13.948809",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 373,
+      "ros_stamp_s": 1773409753.957208,
+      "recorded_at": "2026-03-13T14:49:13.957765",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 374,
+      "ros_stamp_s": 1773409753.975331,
+      "recorded_at": "2026-03-13T14:49:13.975923",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 375,
+      "ros_stamp_s": 1773409754.0495307,
+      "recorded_at": "2026-03-13T14:49:14.050106",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 376,
+      "ros_stamp_s": 1773409754.058767,
+      "recorded_at": "2026-03-13T14:49:14.059412",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 377,
+      "ros_stamp_s": 1773409754.0746744,
+      "recorded_at": "2026-03-13T14:49:14.075255",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 378,
+      "ros_stamp_s": 1773409754.1450536,
+      "recorded_at": "2026-03-13T14:49:14.145978",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 379,
+      "ros_stamp_s": 1773409754.154475,
+      "recorded_at": "2026-03-13T14:49:14.155219",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 380,
+      "ros_stamp_s": 1773409754.1750226,
+      "recorded_at": "2026-03-13T14:49:14.175702",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 381,
+      "ros_stamp_s": 1773409754.2488627,
+      "recorded_at": "2026-03-13T14:49:14.249535",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 382,
+      "ros_stamp_s": 1773409754.2585733,
+      "recorded_at": "2026-03-13T14:49:14.259168",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 383,
+      "ros_stamp_s": 1773409754.275498,
+      "recorded_at": "2026-03-13T14:49:14.276205",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 384,
+      "ros_stamp_s": 1773409754.3487911,
+      "recorded_at": "2026-03-13T14:49:14.349465",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 385,
+      "ros_stamp_s": 1773409754.3582127,
+      "recorded_at": "2026-03-13T14:49:14.358893",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 386,
+      "ros_stamp_s": 1773409754.375592,
+      "recorded_at": "2026-03-13T14:49:14.376203",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 387,
+      "ros_stamp_s": 1773409754.449931,
+      "recorded_at": "2026-03-13T14:49:14.450666",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 388,
+      "ros_stamp_s": 1773409754.4591367,
+      "recorded_at": "2026-03-13T14:49:14.459898",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 389,
+      "ros_stamp_s": 1773409754.4758298,
+      "recorded_at": "2026-03-13T14:49:14.476435",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 390,
+      "ros_stamp_s": 1773409754.5642922,
+      "recorded_at": "2026-03-13T14:49:14.564947",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 391,
+      "ros_stamp_s": 1773409754.5737278,
+      "recorded_at": "2026-03-13T14:49:14.574330",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 392,
+      "ros_stamp_s": 1773409754.5833545,
+      "recorded_at": "2026-03-13T14:49:14.583981",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 393,
+      "ros_stamp_s": 1773409754.6421864,
+      "recorded_at": "2026-03-13T14:49:14.642950",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 394,
+      "ros_stamp_s": 1773409754.6514335,
+      "recorded_at": "2026-03-13T14:49:14.652058",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 395,
+      "ros_stamp_s": 1773409754.6748285,
+      "recorded_at": "2026-03-13T14:49:14.675378",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 396,
+      "ros_stamp_s": 1773409754.7464006,
+      "recorded_at": "2026-03-13T14:49:14.746999",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 397,
+      "ros_stamp_s": 1773409754.7556975,
+      "recorded_at": "2026-03-13T14:49:14.756298",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 398,
+      "ros_stamp_s": 1773409754.77528,
+      "recorded_at": "2026-03-13T14:49:14.775871",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 399,
+      "ros_stamp_s": 1773409754.848933,
+      "recorded_at": "2026-03-13T14:49:14.849516",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 400,
+      "ros_stamp_s": 1773409754.8585527,
+      "recorded_at": "2026-03-13T14:49:14.859135",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 401,
+      "ros_stamp_s": 1773409754.8755436,
+      "recorded_at": "2026-03-13T14:49:14.876302",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 402,
+      "ros_stamp_s": 1773409754.9464908,
+      "recorded_at": "2026-03-13T14:49:14.947068",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 403,
+      "ros_stamp_s": 1773409754.95592,
+      "recorded_at": "2026-03-13T14:49:14.956497",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 404,
+      "ros_stamp_s": 1773409754.9757025,
+      "recorded_at": "2026-03-13T14:49:14.976297",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 405,
+      "ros_stamp_s": 1773409755.0506463,
+      "recorded_at": "2026-03-13T14:49:15.051329",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 406,
+      "ros_stamp_s": 1773409755.060041,
+      "recorded_at": "2026-03-13T14:49:15.060785",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 407,
+      "ros_stamp_s": 1773409755.076019,
+      "recorded_at": "2026-03-13T14:49:15.076612",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 408,
+      "ros_stamp_s": 1773409755.1464238,
+      "recorded_at": "2026-03-13T14:49:15.147023",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 409,
+      "ros_stamp_s": 1773409755.1553652,
+      "recorded_at": "2026-03-13T14:49:15.155967",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 410,
+      "ros_stamp_s": 1773409755.1759365,
+      "recorded_at": "2026-03-13T14:49:15.176529",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 411,
+      "ros_stamp_s": 1773409755.2506719,
+      "recorded_at": "2026-03-13T14:49:15.251289",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 412,
+      "ros_stamp_s": 1773409755.2596881,
+      "recorded_at": "2026-03-13T14:49:15.260306",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 413,
+      "ros_stamp_s": 1773409755.2762942,
+      "recorded_at": "2026-03-13T14:49:15.276911",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 414,
+      "ros_stamp_s": 1773409755.3509831,
+      "recorded_at": "2026-03-13T14:49:15.351741",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 415,
+      "ros_stamp_s": 1773409755.3601823,
+      "recorded_at": "2026-03-13T14:49:15.360766",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 416,
+      "ros_stamp_s": 1773409755.3764234,
+      "recorded_at": "2026-03-13T14:49:15.377040",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 417,
+      "ros_stamp_s": 1773409755.448606,
+      "recorded_at": "2026-03-13T14:49:15.449175",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 418,
+      "ros_stamp_s": 1773409755.4586136,
+      "recorded_at": "2026-03-13T14:49:15.459170",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 419,
+      "ros_stamp_s": 1773409755.4768856,
+      "recorded_at": "2026-03-13T14:49:15.477460",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 420,
+      "ros_stamp_s": 1773409755.5505815,
+      "recorded_at": "2026-03-13T14:49:15.551165",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 421,
+      "ros_stamp_s": 1773409755.5607681,
+      "recorded_at": "2026-03-13T14:49:15.561342",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 422,
+      "ros_stamp_s": 1773409755.5768216,
+      "recorded_at": "2026-03-13T14:49:15.577421",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 423,
+      "ros_stamp_s": 1773409755.6512392,
+      "recorded_at": "2026-03-13T14:49:15.651853",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 424,
+      "ros_stamp_s": 1773409755.6607373,
+      "recorded_at": "2026-03-13T14:49:15.661330",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 425,
+      "ros_stamp_s": 1773409755.6768272,
+      "recorded_at": "2026-03-13T14:49:15.677413",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 426,
+      "ros_stamp_s": 1773409755.7518854,
+      "recorded_at": "2026-03-13T14:49:15.752456",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 427,
+      "ros_stamp_s": 1773409755.7614539,
+      "recorded_at": "2026-03-13T14:49:15.762039",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 428,
+      "ros_stamp_s": 1773409755.776927,
+      "recorded_at": "2026-03-13T14:49:15.777603",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 429,
+      "ros_stamp_s": 1773409755.8439498,
+      "recorded_at": "2026-03-13T14:49:15.844531",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 430,
+      "ros_stamp_s": 1773409755.8529918,
+      "recorded_at": "2026-03-13T14:49:15.853563",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 431,
+      "ros_stamp_s": 1773409755.875918,
+      "recorded_at": "2026-03-13T14:49:15.876776",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 432,
+      "ros_stamp_s": 1773409755.9490688,
+      "recorded_at": "2026-03-13T14:49:15.949641",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 433,
+      "ros_stamp_s": 1773409755.957969,
+      "recorded_at": "2026-03-13T14:49:15.958549",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 434,
+      "ros_stamp_s": 1773409755.9763381,
+      "recorded_at": "2026-03-13T14:49:15.976933",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 435,
+      "ros_stamp_s": 1773409756.0505085,
+      "recorded_at": "2026-03-13T14:49:16.051437",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 436,
+      "ros_stamp_s": 1773409756.0601351,
+      "recorded_at": "2026-03-13T14:49:16.060742",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 437,
+      "ros_stamp_s": 1773409756.0766895,
+      "recorded_at": "2026-03-13T14:49:16.077296",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 438,
+      "ros_stamp_s": 1773409756.1510255,
+      "recorded_at": "2026-03-13T14:49:16.151612",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 439,
+      "ros_stamp_s": 1773409756.1603096,
+      "recorded_at": "2026-03-13T14:49:16.160918",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 440,
+      "ros_stamp_s": 1773409756.1770194,
+      "recorded_at": "2026-03-13T14:49:16.177783",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 441,
+      "ros_stamp_s": 1773409756.2504296,
+      "recorded_at": "2026-03-13T14:49:16.250990",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 442,
+      "ros_stamp_s": 1773409756.259891,
+      "recorded_at": "2026-03-13T14:49:16.260637",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 443,
+      "ros_stamp_s": 1773409756.2769358,
+      "recorded_at": "2026-03-13T14:49:16.277564",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 444,
+      "ros_stamp_s": 1773409756.3509994,
+      "recorded_at": "2026-03-13T14:49:16.351587",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 445,
+      "ros_stamp_s": 1773409756.3601763,
+      "recorded_at": "2026-03-13T14:49:16.360760",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 446,
+      "ros_stamp_s": 1773409756.376943,
+      "recorded_at": "2026-03-13T14:49:16.377552",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 447,
+      "ros_stamp_s": 1773409756.4509592,
+      "recorded_at": "2026-03-13T14:49:16.451555",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 448,
+      "ros_stamp_s": 1773409756.460388,
+      "recorded_at": "2026-03-13T14:49:16.460985",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 449,
+      "ros_stamp_s": 1773409756.4770215,
+      "recorded_at": "2026-03-13T14:49:16.477897",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 450,
+      "ros_stamp_s": 1773409756.5533423,
+      "recorded_at": "2026-03-13T14:49:16.553909",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 451,
+      "ros_stamp_s": 1773409756.562307,
+      "recorded_at": "2026-03-13T14:49:16.562885",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 452,
+      "ros_stamp_s": 1773409756.5765102,
+      "recorded_at": "2026-03-13T14:49:16.577084",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 453,
+      "ros_stamp_s": 1773409756.647468,
+      "recorded_at": "2026-03-13T14:49:16.648048",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 454,
+      "ros_stamp_s": 1773409756.6565144,
+      "recorded_at": "2026-03-13T14:49:16.657082",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 455,
+      "ros_stamp_s": 1773409756.676875,
+      "recorded_at": "2026-03-13T14:49:16.677447",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 456,
+      "ros_stamp_s": 1773409756.7511284,
+      "recorded_at": "2026-03-13T14:49:16.751715",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 457,
+      "ros_stamp_s": 1773409756.761205,
+      "recorded_at": "2026-03-13T14:49:16.761818",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 458,
+      "ros_stamp_s": 1773409756.7774043,
+      "recorded_at": "2026-03-13T14:49:16.777987",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 459,
+      "ros_stamp_s": 1773409756.84958,
+      "recorded_at": "2026-03-13T14:49:16.850242",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 460,
+      "ros_stamp_s": 1773409756.8584452,
+      "recorded_at": "2026-03-13T14:49:16.859099",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 461,
+      "ros_stamp_s": 1773409756.8775651,
+      "recorded_at": "2026-03-13T14:49:16.878142",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 462,
+      "ros_stamp_s": 1773409756.9504445,
+      "recorded_at": "2026-03-13T14:49:16.951000",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 463,
+      "ros_stamp_s": 1773409756.96052,
+      "recorded_at": "2026-03-13T14:49:16.961105",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 464,
+      "ros_stamp_s": 1773409756.977371,
+      "recorded_at": "2026-03-13T14:49:16.977940",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 465,
+      "ros_stamp_s": 1773409757.0506542,
+      "recorded_at": "2026-03-13T14:49:17.051372",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 466,
+      "ros_stamp_s": 1773409757.0602274,
+      "recorded_at": "2026-03-13T14:49:17.060806",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 467,
+      "ros_stamp_s": 1773409757.0775173,
+      "recorded_at": "2026-03-13T14:49:17.078308",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 468,
+      "ros_stamp_s": 1773409757.1521447,
+      "recorded_at": "2026-03-13T14:49:17.152724",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 469,
+      "ros_stamp_s": 1773409757.161204,
+      "recorded_at": "2026-03-13T14:49:17.161804",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 470,
+      "ros_stamp_s": 1773409757.177454,
+      "recorded_at": "2026-03-13T14:49:17.178056",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 471,
+      "ros_stamp_s": 1773409757.2468054,
+      "recorded_at": "2026-03-13T14:49:17.247379",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 472,
+      "ros_stamp_s": 1773409757.2558212,
+      "recorded_at": "2026-03-13T14:49:17.256407",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 473,
+      "ros_stamp_s": 1773409757.2774813,
+      "recorded_at": "2026-03-13T14:49:17.278078",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 474,
+      "ros_stamp_s": 1773409757.3535917,
+      "recorded_at": "2026-03-13T14:49:17.354174",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 475,
+      "ros_stamp_s": 1773409757.3638675,
+      "recorded_at": "2026-03-13T14:49:17.364433",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 476,
+      "ros_stamp_s": 1773409757.3782334,
+      "recorded_at": "2026-03-13T14:49:17.378850",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 477,
+      "ros_stamp_s": 1773409757.4523203,
+      "recorded_at": "2026-03-13T14:49:17.452903",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 478,
+      "ros_stamp_s": 1773409757.4618974,
+      "recorded_at": "2026-03-13T14:49:17.462466",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 479,
+      "ros_stamp_s": 1773409757.47774,
+      "recorded_at": "2026-03-13T14:49:17.478334",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 480,
+      "ros_stamp_s": 1773409757.5521133,
+      "recorded_at": "2026-03-13T14:49:17.552694",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 481,
+      "ros_stamp_s": 1773409757.5618103,
+      "recorded_at": "2026-03-13T14:49:17.562400",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 482,
+      "ros_stamp_s": 1773409757.5779333,
+      "recorded_at": "2026-03-13T14:49:17.578516",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 483,
+      "ros_stamp_s": 1773409757.6535096,
+      "recorded_at": "2026-03-13T14:49:17.654097",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 484,
+      "ros_stamp_s": 1773409757.6632946,
+      "recorded_at": "2026-03-13T14:49:17.663907",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 485,
+      "ros_stamp_s": 1773409757.6780257,
+      "recorded_at": "2026-03-13T14:49:17.678684",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 486,
+      "ros_stamp_s": 1773409757.7536876,
+      "recorded_at": "2026-03-13T14:49:17.754290",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 487,
+      "ros_stamp_s": 1773409757.7644584,
+      "recorded_at": "2026-03-13T14:49:17.765154",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 488,
+      "ros_stamp_s": 1773409757.778485,
+      "recorded_at": "2026-03-13T14:49:17.779078",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 489,
+      "ros_stamp_s": 1773409757.8523633,
+      "recorded_at": "2026-03-13T14:49:17.853080",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 490,
+      "ros_stamp_s": 1773409757.8623297,
+      "recorded_at": "2026-03-13T14:49:17.862911",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 491,
+      "ros_stamp_s": 1773409757.8785565,
+      "recorded_at": "2026-03-13T14:49:17.879152",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 492,
+      "ros_stamp_s": 1773409757.953225,
+      "recorded_at": "2026-03-13T14:49:17.953791",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 493,
+      "ros_stamp_s": 1773409757.9636939,
+      "recorded_at": "2026-03-13T14:49:17.964394",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 494,
+      "ros_stamp_s": 1773409757.9783554,
+      "recorded_at": "2026-03-13T14:49:17.978919",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 495,
+      "ros_stamp_s": 1773409758.0528538,
+      "recorded_at": "2026-03-13T14:49:18.053470",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 496,
+      "ros_stamp_s": 1773409758.063347,
+      "recorded_at": "2026-03-13T14:49:18.063967",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 497,
+      "ros_stamp_s": 1773409758.078962,
+      "recorded_at": "2026-03-13T14:49:18.079553",
+      "source": "segformer",
+      "n_detections": 0,
+      "detections": []
+    },
+    {
+      "frame": 498,
+      "ros_stamp_s": 1773409758.1525047,
+      "recorded_at": "2026-03-13T14:49:18.153477",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7489,
+          "bbox_center_x": 233.5,
+          "bbox_center_y": 410.0,
+          "bbox_width": 163.0,
+          "bbox_height": 140.0,
+          "depth_m": null
+        }
+      ]
+    },
+    {
+      "frame": 499,
+      "ros_stamp_s": 1773409758.1635513,
+      "recorded_at": "2026-03-13T14:49:18.164576",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7489,
+          "bbox_center_x": 233.5,
+          "bbox_center_y": 410.0,
+          "bbox_width": 163.0,
+          "bbox_height": 140.0,
+          "depth_m": 0.307
+        }
+      ]
+    },
+    {
+      "frame": 500,
+      "ros_stamp_s": 1773409758.1808019,
+      "recorded_at": "2026-03-13T14:49:18.181788",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7489,
+          "bbox_center_x": 233.5,
+          "bbox_center_y": 410.0,
+          "bbox_width": 163.0,
+          "bbox_height": 140.0,
+          "depth_m": 0.307
+        }
+      ]
+    },
+    {
+      "frame": 501,
+      "ros_stamp_s": 1773409758.2519078,
+      "recorded_at": "2026-03-13T14:49:18.252886",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7788,
+          "bbox_center_x": 254.5,
+          "bbox_center_y": 384.5,
+          "bbox_width": 175.0,
+          "bbox_height": 191.0,
+          "depth_m": 0.307
+        }
+      ]
+    },
+    {
+      "frame": 502,
+      "ros_stamp_s": 1773409758.2628458,
+      "recorded_at": "2026-03-13T14:49:18.263825",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7788,
+          "bbox_center_x": 254.5,
+          "bbox_center_y": 384.5,
+          "bbox_width": 175.0,
+          "bbox_height": 191.0,
+          "depth_m": 0.293
+        }
+      ]
+    },
+    {
+      "frame": 503,
+      "ros_stamp_s": 1773409758.2799954,
+      "recorded_at": "2026-03-13T14:49:18.280978",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7788,
+          "bbox_center_x": 254.5,
+          "bbox_center_y": 384.5,
+          "bbox_width": 175.0,
+          "bbox_height": 191.0,
+          "depth_m": 0.293
+        }
+      ]
+    },
+    {
+      "frame": 504,
+      "ros_stamp_s": 1773409758.351214,
+      "recorded_at": "2026-03-13T14:49:18.352193",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8028,
+          "bbox_center_x": 269.5,
+          "bbox_center_y": 362.5,
+          "bbox_width": 175.0,
+          "bbox_height": 235.0,
+          "depth_m": 0.293
+        }
+      ]
+    },
+    {
+      "frame": 505,
+      "ros_stamp_s": 1773409758.3630373,
+      "recorded_at": "2026-03-13T14:49:18.363995",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8028,
+          "bbox_center_x": 269.5,
+          "bbox_center_y": 362.5,
+          "bbox_width": 175.0,
+          "bbox_height": 235.0,
+          "depth_m": 0.301
+        }
+      ]
+    },
+    {
+      "frame": 506,
+      "ros_stamp_s": 1773409758.3793888,
+      "recorded_at": "2026-03-13T14:49:18.380350",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8028,
+          "bbox_center_x": 269.5,
+          "bbox_center_y": 362.5,
+          "bbox_width": 175.0,
+          "bbox_height": 235.0,
+          "depth_m": 0.301
+        }
+      ]
+    },
+    {
+      "frame": 507,
+      "ros_stamp_s": 1773409758.4505537,
+      "recorded_at": "2026-03-13T14:49:18.451499",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8491,
+          "bbox_center_x": 276.5,
+          "bbox_center_y": 331.0,
+          "bbox_width": 173.0,
+          "bbox_height": 298.0,
+          "depth_m": 0.301
+        }
+      ]
+    },
+    {
+      "frame": 508,
+      "ros_stamp_s": 1773409758.4619975,
+      "recorded_at": "2026-03-13T14:49:18.462964",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8491,
+          "bbox_center_x": 276.5,
+          "bbox_center_y": 331.0,
+          "bbox_width": 173.0,
+          "bbox_height": 298.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 509,
+      "ros_stamp_s": 1773409758.4796507,
+      "recorded_at": "2026-03-13T14:49:18.480650",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8491,
+          "bbox_center_x": 276.5,
+          "bbox_center_y": 331.0,
+          "bbox_width": 173.0,
+          "bbox_height": 298.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 510,
+      "ros_stamp_s": 1773409758.5499923,
+      "recorded_at": "2026-03-13T14:49:18.550960",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8392,
+          "bbox_center_x": 270.0,
+          "bbox_center_y": 306.0,
+          "bbox_width": 180.0,
+          "bbox_height": 348.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 511,
+      "ros_stamp_s": 1773409758.561136,
+      "recorded_at": "2026-03-13T14:49:18.562119",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8392,
+          "bbox_center_x": 270.0,
+          "bbox_center_y": 306.0,
+          "bbox_width": 180.0,
+          "bbox_height": 348.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 512,
+      "ros_stamp_s": 1773409758.579641,
+      "recorded_at": "2026-03-13T14:49:18.580618",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.8392,
+          "bbox_center_x": 270.0,
+          "bbox_center_y": 306.0,
+          "bbox_width": 180.0,
+          "bbox_height": 348.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 513,
+      "ros_stamp_s": 1773409758.651032,
+      "recorded_at": "2026-03-13T14:49:18.652015",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7939,
+          "bbox_center_x": 274.5,
+          "bbox_center_y": 286.5,
+          "bbox_width": 181.0,
+          "bbox_height": 387.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 514,
+      "ros_stamp_s": 1773409758.6618013,
+      "recorded_at": "2026-03-13T14:49:18.662805",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7939,
+          "bbox_center_x": 274.5,
+          "bbox_center_y": 286.5,
+          "bbox_width": 181.0,
+          "bbox_height": 387.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 515,
+      "ros_stamp_s": 1773409758.6797717,
+      "recorded_at": "2026-03-13T14:49:18.680717",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7939,
+          "bbox_center_x": 274.5,
+          "bbox_center_y": 286.5,
+          "bbox_width": 181.0,
+          "bbox_height": 387.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 516,
+      "ros_stamp_s": 1773409758.7521486,
+      "recorded_at": "2026-03-13T14:49:18.753102",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7869,
+          "bbox_center_x": 293.0,
+          "bbox_center_y": 274.0,
+          "bbox_width": 184.0,
+          "bbox_height": 396.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 517,
+      "ros_stamp_s": 1773409758.7632864,
+      "recorded_at": "2026-03-13T14:49:18.764244",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7869,
+          "bbox_center_x": 293.0,
+          "bbox_center_y": 274.0,
+          "bbox_width": 184.0,
+          "bbox_height": 396.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 518,
+      "ros_stamp_s": 1773409758.7797203,
+      "recorded_at": "2026-03-13T14:49:18.780698",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7869,
+          "bbox_center_x": 293.0,
+          "bbox_center_y": 274.0,
+          "bbox_width": 184.0,
+          "bbox_height": 396.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 519,
+      "ros_stamp_s": 1773409758.8507192,
+      "recorded_at": "2026-03-13T14:49:18.851664",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7726,
+          "bbox_center_x": 310.0,
+          "bbox_center_y": 260.0,
+          "bbox_width": 186.0,
+          "bbox_height": 394.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 520,
+      "ros_stamp_s": 1773409758.8617198,
+      "recorded_at": "2026-03-13T14:49:18.862688",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7726,
+          "bbox_center_x": 310.0,
+          "bbox_center_y": 260.0,
+          "bbox_width": 186.0,
+          "bbox_height": 394.0,
+          "depth_m": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 521,
+      "ros_stamp_s": 1773409758.8802335,
+      "recorded_at": "2026-03-13T14:49:18.881222",
+      "source": "segformer",
+      "n_detections": 1,
+      "detections": [
+        {
+          "class_id": "bottle",
+          "confidence": 0.7726,
+          "bbox_center_x": 310.0,
+          "bbox_center_y": 260.0,
+          "bbox_width": 186.0,
+          "bbox_height": 394.0,
+          "depth_m": 0.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "session_duration_s": 57.72,
+  "total_frames": 418,
+  "avg_fps": 11.41,
+  "avg_inference_ms": 86.96,
+  "total_detections": 18,
+  "unique_classes_detected": 1,
+  "class_summary": {
+    "cell phone": {
+      "count": 18,
+      "avg_confidence": 0.8456,
+      "min_confidence": 0.7232,
+      "max_confidence": 0.9608
+    }
+  }
+}

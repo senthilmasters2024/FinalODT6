@@ -19,6 +19,68 @@ import json
 import os
 from collections import defaultdict
 
+# ── ROS 2 (optional) ──────────────────────────────────────────────────────────
+try:
+    import rclpy
+    from rclpy.node import Node
+    from vision_msgs.msg import Detection2DArray, Detection2D, ObjectHypothesisWithPose
+    from std_msgs.msg import Float32MultiArray
+    from sensor_msgs.msg import Image as RosImage
+    from cv_bridge import CvBridge
+    ROS2_AVAILABLE = True
+except ImportError:
+    ROS2_AVAILABLE = False
+
+
+class _ROS2Publisher(Node):
+    """Minimal ROS 2 node — publishes detections, depths and annotated image."""
+
+    def __init__(self, node_name, topic_prefix):
+        super().__init__(node_name)
+        self.pub_dets   = self.create_publisher(Detection2DArray,  f'{topic_prefix}/detections',       10)
+        self.pub_depths = self.create_publisher(Float32MultiArray, f'{topic_prefix}/detection_depths', 10)
+        self.pub_image  = self.create_publisher(RosImage,          f'{topic_prefix}/annotated_image',  10)
+        self.bridge     = CvBridge()
+        self.get_logger().info(
+            f'Publishing on {topic_prefix}/detections | /detection_depths | /annotated_image'
+        )
+
+    def publish(self, detections, annotated_bgr, depths):
+        """
+        detections   : list of dicts with 'label', 'confidence', 'bbox' (numpy [x1,y1,x2,y2])
+        annotated_bgr: BGR numpy frame
+        depths       : list of float depths in metres (same order as detections)
+        """
+        now = self.get_clock().now().to_msg()
+
+        arr = Detection2DArray()
+        arr.header.stamp    = now
+        arr.header.frame_id = 'camera_color_optical_frame'
+
+        for det in detections:
+            d = Detection2D()
+            d.header = arr.header
+            hyp = ObjectHypothesisWithPose()
+            hyp.hypothesis.class_id = det['label']
+            hyp.hypothesis.score    = float(det['confidence'])
+            d.results.append(hyp)
+            bbox = det['bbox']
+            x1, y1, x2, y2 = bbox.astype(float) if hasattr(bbox, 'astype') else [float(v) for v in bbox]
+            d.bbox.center.position.x = (x1 + x2) / 2.0
+            d.bbox.center.position.y = (y1 + y2) / 2.0
+            d.bbox.size_x            = float(x2 - x1)
+            d.bbox.size_y            = float(y2 - y1)
+            arr.detections.append(d)
+
+        self.pub_dets.publish(arr)
+
+        depths_msg      = Float32MultiArray()
+        depths_msg.data = [float(v) for v in depths]
+        self.pub_depths.publish(depths_msg)
+
+        self.pub_image.publish(self.bridge.cv2_to_imgmsg(annotated_bgr, encoding='bgr8'))
+
+
 CONFIG_FILE = "detector_config.json"
 
 def load_config(path=CONFIG_FILE):
@@ -420,14 +482,17 @@ class MetricsTracker:
 # ──────────────────────────────────────────────────────────────────────────────
 
 class RealsenseDETR:
-    def __init__(self, confidence_threshold=0.7):
+    def __init__(self, confidence_threshold=0.7, use_ros=False):
         """
         Initialize RealSense camera and DETR model
 
         Args:
             confidence_threshold: Minimum confidence for detections (0-1)
+            use_ros: Publish detections to ROS 2 topics (requires rclpy)
         """
         print("Initializing DETR Object Detection POC...")
+        self._use_ros  = use_ros
+        self._ros_pub  = None
 
         self.confidence_threshold = confidence_threshold
 
@@ -460,6 +525,14 @@ class RealsenseDETR:
         self.initialize_camera()
 
         self.metrics = MetricsTracker()
+
+        if use_ros:
+            if not ROS2_AVAILABLE:
+                print("Warning: ROS 2 packages not found — install rclpy, vision_msgs, cv_bridge.")
+            else:
+                rclpy.init()
+                self._ros_pub = _ROS2Publisher('detr_detector', '/detr')
+                print("ROS 2 publisher ready on /detr/*")
 
     def initialize_camera(self):
         """Initialize RealSense camera with better error handling"""
@@ -749,6 +822,11 @@ class RealsenseDETR:
                                 (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
                     annotated = self.draw_metrics_overlay(annotated)
 
+                if self._ros_pub is not None:
+                    depths = [self.get_depth_at_bbox(depth_frame, d['bbox']) for d in last_detections]
+                    self._ros_pub.publish(last_detections, annotated, depths)
+                    rclpy.spin_once(self._ros_pub, timeout_sec=0)
+
                 cv2.imshow('RealSense + DETR  [q=quit  r=report  s=screenshot]', annotated)
 
                 key = cv2.waitKey(1) & 0xFF
@@ -850,6 +928,10 @@ class RealsenseDETR:
                 self.pipeline.stop()
             except RuntimeError:
                 pass
+        if self._ros_pub is not None:
+            self._ros_pub.destroy_node()
+            rclpy.shutdown()
+            self._ros_pub = None
         cv2.destroyAllWindows()
         print("Done!")
 
@@ -859,10 +941,14 @@ class RealsenseDETR:
 # ──────────────────────────────────────────────────────────────────────────────
 
 def main():
+    import sys
+    use_ros = '--ros' in sys.argv
     print("="*60)
     print("  RealSense D435 + DETR Object Detection  |  Metrics Report")
     print("="*60)
     print(f"  Filter: {DETECT_ONLY if DETECT_ONLY else 'All classes'}")
+    if use_ros:
+        print("  ROS 2 output : /detr/detections | /detr/detection_depths | /detr/annotated_image")
 
     try:
         print("\nSelect mode:")
@@ -899,7 +985,7 @@ def main():
             detector.evaluate_dataset(images_dir, annotations_file,
                                       iou_threshold=0.5, visualize=visualize)
         else:
-            detector = RealsenseDETR(confidence_threshold=CONFIG.get("confidence_threshold", 0.7))
+            detector = RealsenseDETR(confidence_threshold=CONFIG.get("confidence_threshold", 0.7), use_ros=use_ros)
             if choice == "1":
                 detector.run_single_frame()
             else:

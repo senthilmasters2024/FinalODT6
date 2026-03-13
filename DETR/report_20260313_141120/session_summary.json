@@ -1,0 +1,34 @@
+{
+  "session_duration_s": 57.88,
+  "total_frames": 430,
+  "avg_fps": 12.4,
+  "avg_inference_ms": 79.94,
+  "total_detections": 675,
+  "unique_classes_detected": 4,
+  "class_summary": {
+    "cup": {
+      "count": 268,
+      "avg_confidence": 0.8849,
+      "min_confidence": 0.5021,
+      "max_confidence": 0.9993
+    },
+    "person": {
+      "count": 195,
+      "avg_confidence": 0.8968,
+      "min_confidence": 0.5002,
+      "max_confidence": 0.9995
+    },
+    "bottle": {
+      "count": 187,
+      "avg_confidence": 0.9034,
+      "min_confidence": 0.5106,
+      "max_confidence": 0.9989
+    },
+    "cell phone": {
+      "count": 25,
+      "avg_confidence": 0.7841,
+      "min_confidence": 0.5108,
+      "max_confidence": 0.9768
+    }
+  }
+}
